@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Miss"
+title                    : "Zhixin(Flora) Sun"
 title_separator          : " "
 name                     : &name "Zhixin(Flora) Sun"
 description              : &description "Ph.D. student @ WUSTL Imaging Science"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Zhixin(Flora) Sun 孙志鑫"
-  avatar           : "FloraSunSelfie.jpeg"
+  avatar           : "images/FloraSunSelfie.jpeg"
   bio              : "Ph.D. student @ WUSTL Imaging Science"
   location         : "WUSTL, St.Louis MO, U.S.A"
   employer         :
