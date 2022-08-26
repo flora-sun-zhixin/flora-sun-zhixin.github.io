@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zhixin(Flora) Sun's Personal Website"
+title                    : "Miss"
 title_separator          : " "
 name                     : &name "Zhixin(Flora) Sun"
-description              : &description "personal description"
+description              : &description "Ph.D. student @ WUSTL Imaging Science"
 url                      : https://florasun9101.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "FloraSun9101/FloraSun9101.github.io"
@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Zhixin(Flora) Sun 孙志鑫"
-  avatar           : "FloraSunSelfie.png"
+  avatar           : "FloraSunSelfie.jpeg"
   bio              : "Ph.D. student @ WUSTL Imaging Science"
-  location         : "Mckelvey Hall 2010, WUSTL, St.Louis MO, U.S.A"
+  location         : "WUSTL, St.Louis MO, U.S.A"
   employer         :
   pubmed           : 
   googlescholar    : 
