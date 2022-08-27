@@ -11,9 +11,9 @@ title                    : "Zhixin(Flora) Sun"
 title_separator          : " "
 name                     : &name "Zhixin(Flora) Sun"
 description              : &description "Ph.D. student @ WUSTL Imaging Science"
-url                      : https://florasun9101.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://flora-sun-zhixin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "FloraSun9101/FloraSun9101.github.io"
+repository               : "flora-sun-zhixin/flora-sun-zhixin.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &FloraSun9101
+  username               : &flora-sun-zhixin
 facebook:
   username               :
   app_id                 :
@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zhixin(Flora) Sun 孙志鑫"
-  avatar           : "images/FloraSunSelfie.jpeg"
+  name             : "Zhixin(Flora) Sun <br>孙志鑫"
+  avatar           : "FloraSunSelfie.jpeg"
   bio              : "Ph.D. student @ WUSTL Imaging Science"
-  location         : "WUSTL, St.Louis MO, U.S.A"
+  location         : "St.Louis MO, U.S.A"
   employer         :
   pubmed           : 
   googlescholar    : 
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "FloraSun9101"
+  github           : "flora-sun-zhixin"
   google_plus      :
   keybase          :
   instagram        :
@@ -106,7 +106,7 @@ author:
   orcid            : "https://orcid.org/0000-0001-9701-9362"
   pinterest        :
   soundcloud       :
-  stackexchange    : https://stats.stackexchange.com/users/291256/flora-sun
+  stackoverflow    : 291256/flora-sun
   steam            :
   tumblr           :
   twitter          : "FloraSun9101"

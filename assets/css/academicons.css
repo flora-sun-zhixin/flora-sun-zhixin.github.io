@@ -325,3 +325,9 @@
 .fa.fa-pull-right {
   margin-left: .3em;
 }
+.multiline {
+    white-space: pre-wrap;
+    display: inline-block;
+    margin: 0;
+    line-height: 0;
+}
